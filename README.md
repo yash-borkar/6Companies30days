@@ -19,7 +19,7 @@ Welcome to my 30-day #6Companies30Days challenge! This repository documents my p
 - Get noticed by top companies through referrals  
 - Enhance your chances with company-specific test preparation  
 
-🙌 Follow Along  
+## 🙌 Follow Along  
 
 Feel free to share advice, motivation, or feedback as I take on this challenge. Your support means the world to me!  
 Connect with me on LinkedIn: [https://www.linkedin.com/in/yashborkar/](https://www.linkedin.com/in/yashborkar/)  

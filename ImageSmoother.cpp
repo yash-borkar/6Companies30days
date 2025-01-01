@@ -1,4 +1,4 @@
-https://leetcode.com/problems/image-smoother/
+// https://leetcode.com/problems/image-smoother/
 
 class Solution {
 public:
